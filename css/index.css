@@ -42,7 +42,7 @@ li {
     font-size: 12pt;
     margin: 10px;
     cursor: pointer;
-    transition-duration: 1s;
+    transition-duration: .3s;
 }
 
 li:hover {
