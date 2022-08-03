@@ -1,2 +1,2 @@
-# website-lynxys
+# Website Lynxys
 Lynxys' Website
