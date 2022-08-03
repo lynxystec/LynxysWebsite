@@ -1,2 +1,2 @@
 # Lynxys Website
-Lynxys' Website
+Lynxys Website
